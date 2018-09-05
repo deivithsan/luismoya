@@ -84,9 +84,7 @@
             </div>
             <div class="carousel-item">
                 <img alt="..." src="{{ asset('img/principal/3.jpg') }}" width="100%" height="100%" class="media-object">
-                <div class="carousel-caption d-none d-md-block text-left">
-                    <img alt="..." src="{{ asset('img/principal/logo.png') }}" width="15%" height="15%" class="media-object">
-                </div>
+                
             </div>
         </div>
         <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
